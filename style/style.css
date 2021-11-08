@@ -1,0 +1,48 @@
+h1 {
+    font-family: "Helvetica";
+    text-align: center;
+    text-transform: uppercase;
+}
+.caixa {
+    padding: 50px;
+    height: auto;
+    margin: 20px 10px;
+    border-radius: 30px;
+    background-color: cornsilk;
+}
+
+img {
+    height: 251px ;
+    width: 100%;
+    object-fit:cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+}
+figcaption {
+    text-align: center;
+
+}
+
+ul {font-family: "Arial";
+}
+
+ol{
+    font-family: "Arial";
+}
+h2 {
+    font-family: "Helvetica";
+    text-transform: uppercase;
+    text-align: center;
+
+}
+p{  font-family: "Arial";
+    text-align: center;
+}
+body {
+    background-color: rgb(178, 204, 236);
+}
+footer{
+    text-align: center;
+}
