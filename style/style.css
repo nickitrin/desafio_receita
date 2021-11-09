@@ -1,8 +1,10 @@
-h1 {
+.título {
     font-family: 'Mohave', sans-serif;
     font-weight: 600;
     text-align: center;
     text-transform: uppercase;
+    font-size: 64px;
+    margin: 10px;
 }
 .caixa {
     padding: 50px;
@@ -13,7 +15,7 @@ h1 {
     background-color: cornsilk;
 }
 
-img {
+.imagem_receita {
     height: 251px ;
     width: 100%;
     object-fit:cover;
@@ -22,30 +24,25 @@ img {
     margin-right: auto;
     border-radius: 30px;
 }
-figcaption {
+.legenda_imagem{
     text-align: center;
 
 }
 
-ol, ul, p{
+.lista, .paragrafo{
     font-family: 'Mohave', sans-serif;
     font-weight: 300;
     font-style: italic;
 }
-h2 {
+.secoes {
     font-family: "Helvetica";
     text-transform: uppercase;
-    text-align: center;
-
+    text-align: left ;
 }
 
-p{
-   text-align: center; 
-}
-
-body {
+.corpo {
     background-color: rgb(178, 204, 236);
 }
-footer{
+.rodape{
     text-align: center;
 }
