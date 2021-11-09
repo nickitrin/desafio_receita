@@ -1,0 +1,12 @@
+.divisao_conteudo{
+   display: flex;
+   flex-direction: row;
+}
+
+.figura_lateral{
+   outline: 1px solid black
+}
+
+.coluna_preparo{
+   outline: 1px solid green;
+}
