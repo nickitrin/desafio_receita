@@ -1,4 +1,4 @@
-.título {
+.título_da_receita {
     font-family: 'Mohave', sans-serif;
     font-weight: 600;
     text-align: center;
@@ -6,7 +6,7 @@
     font-size: 64px;
     margin: 10px;
 }
-.caixa {
+.receita {
     padding: 50px;
     max-width: 960px;
     height: auto;
@@ -34,7 +34,7 @@
     font-weight: 300;
     font-style: italic;
 }
-.secoes {
+.titulo_descritivo {
     font-family: "Helvetica";
     text-transform: uppercase;
     text-align: left ;
